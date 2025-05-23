@@ -47,7 +47,7 @@ The circuit was designed in **Tinkercad**, then built and tested physically in t
 
 The following image shows the full wiring of the circuit including DHT11, LDR, and LCD connections:
 
-<img src="Photos/wiring_diagram.jpg" alt="Wiring Diagram" width="400"/>
+<img src="Photos/wiring_diagram.jpg.png" alt="Wiring Diagram" width="400"/>
 
 ---
 
@@ -77,14 +77,7 @@ The following image shows the full wiring of the circuit including DHT11, LDR, a
 ## 🔗 Links
 
 - 🎥 **Video Demo:** [YouTube Video](https://www.youtube.com/watch?v=1YcE6VmyJNA)
-- 📄 **Project Report (PDF):** [Download Report](file:///C:/Users/Lenovo/Downloads/Arduino_Temperature_Light_Sensor_Documentation_(1).pdf)
+- 📄 **Project Report:** [Download PDF](Arduino_Temperature_Light_Sensor_Documentation_(1).pdf)
 
 ---
 
-## ✍️ Created by
-
-**Lina Abufarha**  
-Computer Engineering Student – Birzeit University  
-May 2025
-
----
