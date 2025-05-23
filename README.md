@@ -76,9 +76,8 @@ The following image shows the full wiring of the circuit including DHT11, LDR, a
 
 ## 🔗 Links
 
-- 💻 **Tinkercad Simulation:** [Tinkercad Project](https://tinkercad.com/YOUR_PROJECT_LINK)
-- 🎥 **Video Demo:** [YouTube Video](https://youtu.be/YOUR_VIDEO_LINK)
-- 📄 **Project Report (PDF):** [Download Report](https://your-report-link.com)
+- 🎥 **Video Demo:** [YouTube Video](https://www.youtube.com/watch?v=1YcE6VmyJNA)
+- 📄 **Project Report (PDF):** [Download Report](file:///C:/Users/Lenovo/Downloads/Arduino_Temperature_Light_Sensor_Documentation_(1).pdf)
 
 ---
 
