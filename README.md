@@ -47,17 +47,17 @@ The circuit was designed in **Tinkercad**, then built and tested physically in t
 
 The following image shows the full wiring of the circuit including DHT11, LDR, and LCD connections:
 
-![Wiring Diagram](Photos/wiring_diagram.jpg)
+<img src="Photos/wiring_diagram.jpg" alt="Wiring Diagram" width="400"/>
 
 ---
 
 ## 🖼️ LCD Output – Screenshots
 
 ### 🔹 Tinkercad Simulation Output:
-![Tinkercad LCD Screenshot](Photos/tinkercad_lcd.jpg)
+<img src="Photos/tinkercad_lcd.jpg" alt="Tinkercad Output" width="400"/>
 
 ### 🔹 Real Lab Output:
-![Lab LCD Screenshot](Photos/lab_lcd.jpg)
+<img src="Photos/lab_lcd.jpg" alt="Lab Output" width="400"/>
 
 ---
 
