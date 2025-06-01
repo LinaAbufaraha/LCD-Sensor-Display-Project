@@ -5,7 +5,7 @@
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 // ==== Pins ====
-#define DHTPIN A0         // DHT11 connected to A3
+#define DHTPIN A0         // DHT11 connected to A0
 #define DHTTYPE DHT11     // We're using DHT11
 #define LDR_PIN A1        // LDR connected to A1
 
